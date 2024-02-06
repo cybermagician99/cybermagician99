@@ -3,8 +3,7 @@
 - 🌱 I’m currently Web pentesting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me syedmahib8@gmail.com
-- 😄 Pronouns: Mahib
-- ⚡ Fun fact: I am not Mahib.
+- ⚡ Fun fact: I am not a magician
 
 <!---
 cybermagician99/cybermagician99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
