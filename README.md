@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cybermagician99
-- 👀 I’m interested in Cyber_Security
-- 🌱 I’m currently learning Web pentesting
+- 👋 Hi, I’m @Syed_Mahib
+- 👀 I’m interested in learning web development
+- 🌱 I’m currently learning Web devolopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me syedmahib8@gmail.com
 - ⚡ Fun fact: I am not a magician
